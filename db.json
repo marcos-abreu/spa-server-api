@@ -1,0 +1,30 @@
+{
+  "profile": {
+    "first-name": "Marcos",
+    "last-name": "Abreu",
+    "phone": "4165555555",
+    "address": "my own address"
+  },
+  "todos": [
+    {
+      "description": "Call Mom",
+      "done": false,
+      "id": "0"
+    },
+    {
+      "description": "By groceries",
+      "done": false,
+      "id": "1"
+    },
+    {
+      "description": "Return keys",
+      "done": false,
+      "id": "2"
+    },
+    {
+      "description": "Take care to recall",
+      "done": true,
+      "id": "3"
+    }
+  ]
+}
